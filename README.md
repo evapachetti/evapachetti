@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Eva!</h1>
-<h3 align="center">My research topic is AI for medical image analysis</h3>
+<h3 align="center">My research topic focuses on developing AI tools for medical image analysis</h3>
 
 - 🌱 I’m a PhD student in Information Engineering at the University of Pisa
 
-- 👩‍🔬 And a research fellow at the Institute of Information Science and Technologies
+- 👩‍🔬 And a research fellow at the Institute of Information Science and Technologies in Pisa
 
 - 📄 Look at my publications on **[Google Scholar](https://scholar.google.com/citations?user=1e8A5YIAAAAJ&hl=it)** 
 
