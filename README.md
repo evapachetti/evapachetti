@@ -3,7 +3,7 @@
 
 - 🌱 I’m a PhD student in Information Engineering at the University of Pisa
 
-- 👩‍🔬 And a research fellow at the Institute of Information Science and Technologies in Pisa
+- 👩‍🔬 And a graduate fellow at the Institute of Information Science and Technologies in Pisa
 
 - 📄 Look at my publications on **[Google Scholar](https://scholar.google.com/citations?user=1e8A5YIAAAAJ&hl=it)** 
 
