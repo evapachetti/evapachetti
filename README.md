@@ -7,8 +7,6 @@
 
 - 📄 Look at my publications on **[Google Scholar](https://scholar.google.com/citations?user=1e8A5YIAAAAJ&hl=it)** 
 
-- 📫 How to reach me **eva.pachetti@isti.cnr.it / eva.pachetti@phd.unipi.it**
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
