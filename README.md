@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Eva!</h1>
-<h3 align="center">My research topic focuses on developing AI tools for medical image analysis</h3>
+<h3 align="center">I develop AI tools for medical image analysis</h3>
 
 - 🌱 I’m a PhD candidate in Information Engineering at the University of Pisa
 - 👩‍🔬 And a Machine Learning Engineer at mediaire
